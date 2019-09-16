@@ -2,6 +2,6 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/bio.jpg"
+  image: "/images/tasman1.jpg"
 ---
 A good researcher
