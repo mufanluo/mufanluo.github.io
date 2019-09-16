@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Mufan Luo"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD who study how communication technologies impact human lifes"
   location         : "Bay Area"
   email            :
