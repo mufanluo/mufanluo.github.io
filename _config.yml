@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Mufan Luo"
   avatar           : "/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD who study how communication technologies impact human lifes"
+  bio              : "PhD candidate in Communication @Stanford who studies interpersonal and psychological dynamics via communication technologies"
   location         : "Bay Area"
   email            :
   links:
@@ -121,7 +121,7 @@ author:
       url: "/resume/cv.pdf"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/mufanluo"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
