@@ -7,11 +7,10 @@ header:
   image: "/images/tasmanbeach.jpg"
 ---
 
-### How do people perceive and react to online information?
+### How Do People Perceive and React to Online Information?
 
 Do people tend to perceive a news headline on social media as real or fake? How accurately can people detect real (fake) from fake (real) news? We examine the truth-bias and detection accuracy of individuals' perceptions of news headlines, and how social endorsement heuristics may affect these dynamics.
 
-**Work in progress**
 
 **Luo, M.,** Hancock, J.T., & Markowitz, D. Perceptions and detection accuracy of news on social media: Effects of truth-bias and endorsement cues.
 [OSF]
@@ -30,19 +29,18 @@ We conduct systematic review and meta-analysis to examine the associations and m
 
 **Luo, M.,** & Hancock, J. (2019). Self-disclosure and social media: Motivations, mechanisms and psychological well-being. *Current Opinion in Psychology*. doi:10.1016/j.copsyc.2019.08.019
 
-**Work in progress**
 
 Hancock, J.T., Liu, X., **Luo, M.,** Mieczkowski, H., French, M. Social media use and psychological well-being: A Meta-analysis. [code and data visualization upon request]
 
 
 ### How does shared media experience affect our emotions and social well-being?
 
-how does shared attention display at-scale?
+People share media experience with others in everyday life. Live streaming technologies facilitate the shared experience by allowing people to view and communicate synchronously. We use large-scale field data and lab experiments to understand the amplification and psychological impacts of shared experience.
 
-Work in progress
-Shared attention at scale: Comparing live chats on YouTube
 
-Coviewing as a coping strategy to restore need to belong.
+Luo, M., Hsu, T., Park, J., Hancock, J.T. Amplification of shared-attention at-scale on YouTube.
+
+Luo, M., & Hancock, J.T. Co-viewing as a coping strategy to restore the need to belong.
 
 ### What are the impacts of technologies on self-construct and identity?
 
@@ -54,5 +52,4 @@ Self-presentation and social interaction via mediated communication not only aff
 Chang, F., **Luo, M.,** Waltor, G., Aguilar, L., & Bailenson, J. (in press). Stereotype threat in virtual learning environments: Effects of avatar gender and sexist behavior on women’s math learning outcomes. *Cyberpsychology, Behavior and Social Networking*.
 
 
-**Work in progress**
 French, M., **Luo, M.,** & Hancock, J.T. Addressing the audience: Effects of evaluation on identity shift in computer-mediated environments.
