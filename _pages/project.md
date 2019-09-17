@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /projects/
-title: "Projects by Tags"
+title: "Research"
 author_profile: true
 header:
   image: "/images/tasmanbeach.jpg"
