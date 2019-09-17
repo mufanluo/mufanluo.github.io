@@ -4,7 +4,7 @@ permalink: /about/
 header:
   image: "/images/tasmansea.jpg"
 ---
-Welcome to my site! I am a PhD candidate from the Department of Communication at Stanford University. I am working with Prof. Jeff Hancock in the Social Media Lab [https://sml.stanford.edu/]. 
+Welcome to my site! I am a PhD candidate from the Department of Communication at Stanford University. I am working with Prof. Jeff Hancock in the Social Media Lab [link] [https://sml.stanford.edu/]. 
 
 My research examines interpersonal and psychological dynamics via communication technologies (social media, virtual reality, live streaming, etc.) and how language can reflect and predict these dynamics. 
 
