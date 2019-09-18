@@ -4,7 +4,7 @@ permalink: /course/
 ---
 Below are courses taken at Stanford University
 
-Statistics
+### Statistics
 - STATS 116: Theory of Probability
 - STATS 200: Introduction to Statistical Inference
 - STATS 202: Data Mining and Analysis
@@ -14,7 +14,7 @@ Statistics
 - STATS 222: Longitudinal Data Analysis
 - EDUC 326: Advanced Regression Analysis
 
-Programming
+### Programming
 - CS 106A: Programming Methodology
 - CS 193Q: Introduction to Python Programming
 - CME 193: Introduction to Scientific Python
