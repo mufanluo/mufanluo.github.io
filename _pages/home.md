@@ -1,6 +1,7 @@
 ---
-permalink: /home/
+permalink: /
 title: "Home"
+layout: single
 author_profile: true
 header:
   image:
