@@ -116,9 +116,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
-    - label: "CV"
+    - label:
       icon: "fas fa-fw fa-link"
-      url: "/resume/cv.pdf"
+      #url: 
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mufanluo"

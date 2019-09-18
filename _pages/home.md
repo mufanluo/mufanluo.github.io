@@ -2,7 +2,7 @@
 title: "About Me"
 permalink: /
 excerpt: "Mufan Luo is a third-year PhD "
-layout: single
+layout: home
 author_profile: true
 sitemap: true
 ---
