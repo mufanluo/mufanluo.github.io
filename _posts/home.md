@@ -1,8 +1,9 @@
 ---
+permalink: /home/
 title: "Home"
+author_profile: true
 header:
-  images:
-excerpt:
+  image:
 ---
 Welcome to my site! I am a PhD candidate from the Department of Communication at Stanford University. I am working with Prof. Jeff Hancock in the [Social Media Lab](sml.stanford.edu). I completed my Masters degree at University of Illinois at Urbana-Champaign and my undergraduate degree at Renmin University of China.
 
