@@ -18,14 +18,14 @@ Luo, M., Hancock, J.T., & Markowitz, D. Perceptions and detection accuracy of ne
 Social media can extend the reach of health campaign messages via retransmission. What factors may drive message retransmission on Facebook? We examine the effects of opinion climate, message efficacy, and publicness feature of social media on retransmission.
 
 
-Luo, M., Wang, N., & Bigman, C.A. Effects of opinion climate, efficacy messages, and publicness of social media on intentions to retransmit anti-binge drinking messages on Facebook. *Cyberpsychology, behavior, and social networking*
+Luo, M., Wang, N., & Bigman, C.A. Effects of opinion climate, efficacy messages, and publicness of social media on intentions to retransmit anti-binge drinking messages on Facebook. *Cyberpsychology, Behavior, and Social Networking*
 
 
 ## How Does Social Media Use Associate With Psychological Well-being?
 
 We conduct systematic review and meta-analysis to examine the associations and mechanisms linking the two constructs.
 
-Luo, M., & Hancock, J. (2019). Self-disclosure and social media: Motivations, mechanisms and psychological well-being. *Current Opinion in Psychology*. doi:10.1016/j.copsyc.2019.08.019
+Luo, M., & Hancock, J. (2019). Self-disclosure and social media: Motivations, mechanisms and psychological well-being. *Current Opinion in Psychology*. [[DOI]](https://doi.org/10.1016/j.copsyc.2019.08.019)
 
 
 Hancock, J.T., Liu, X., Luo, M., Mieczkowski, H., & French, M. Social media use and psychological well-being: A Meta-analysis. [code and data visualization upon request]
