@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/tasmansea.jpg"
+  image: 
 ---
 Welcome to my site! I am a PhD candidate from the Department of Communication at Stanford University. I am working with Prof. Jeff Hancock in the [Social Media Lab](sml.stanford.edu).
 

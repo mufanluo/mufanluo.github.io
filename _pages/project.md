@@ -4,10 +4,21 @@ permalink: /projects/
 title: "Research"
 author_profile: true
 header:
-  image: "/images/tasmanbeach.jpg"
+  image:
 ---
 
-## How Do People Perceive and React to Online Information?
+
+## How does shared media experience affect our emotions and social well-being?
+
+People share media experience with others in everyday life. Live streaming technologies facilitate the shared experience by allowing people to view and communicate synchronously. We use large-scale field data and lab experiments to understand the amplification and psychological impacts of shared experience.
+
+
+Luo, M., Hsu, T., Park, J., Hancock, J.T. Amplification of shared-attention at-scale on YouTube.
+
+Luo, M., & Hancock, J.T. Co-viewing as a coping strategy to restore the need to belong.
+
+
+## How do people perceive and react to online information?
 
 Do people tend to perceive a news headline on social media as real or fake? How accurately can people detect real (fake) from fake (real) news? We examine the truth-bias and detection accuracy of individuals' perceptions of news headlines, and how social endorsement heuristics may affect these dynamics.
 
@@ -30,15 +41,6 @@ Luo, M., & Hancock, J. (2019). Self-disclosure and social media: Motivations, me
 
 Hancock, J.T., Liu, X., Luo, M., Mieczkowski, H., & French, M. Social media use and psychological well-being: A Meta-analysis. [code and data visualization upon request]
 
-
-## How Does Shared Media Experience Affect Our Emotions and Social Well-being?
-
-People share media experience with others in everyday life. Live streaming technologies facilitate the shared experience by allowing people to view and communicate synchronously. We use large-scale field data and lab experiments to understand the amplification and psychological impacts of shared experience.
-
-
-Luo, M., Hsu, T., Park, J., Hancock, J.T. Amplification of shared-attention at-scale on YouTube.
-
-Luo, M., & Hancock, J.T. Co-viewing as a coping strategy to restore the need to belong.
 
 ## What Are the Impacts of Technologies on Self-construct and Identity?
 
