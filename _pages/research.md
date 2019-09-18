@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /projects/
+permalink: /research/
 title: "Research"
 author_profile: true
 header:
@@ -53,4 +53,4 @@ Luo, M., & Hancock, J.T. (in press). Complimenting the self online: The humblebr
 Chang, F., Luo, M., Waltor, G., Aguilar, L., & Bailenson, J. (in press). Stereotype threat in virtual learning environments: Effects of avatar gender and sexist behavior on women’s math learning outcomes. *Cyberpsychology, Behavior and Social Networking*.
 
 
-French, M., Luo, M., & Hancock, J.T. Addressing the audience: Effects of evaluation on identity shift in computer-mediated environments. Manuscript in preparation. 
+French, M., Luo, M., & Hancock, J.T. Addressing the audience: Effects of evaluation on identity shift in computer-mediated environments. Manuscript in preparation.
