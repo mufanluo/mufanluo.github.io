@@ -4,6 +4,7 @@ permalink: /
 excerpt: "Mufan Luo is a third-year PhD "
 layout: single
 author_profile: true
+sitemap: true
 header:
   image:
 modified: 2019-09-17
