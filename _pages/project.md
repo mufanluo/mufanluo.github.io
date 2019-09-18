@@ -12,14 +12,13 @@ header:
 Do people tend to perceive a news headline on social media as real or fake? How accurately can people detect real (fake) from fake (real) news? We examine the truth-bias and detection accuracy of individuals' perceptions of news headlines, and how social endorsement heuristics may affect these dynamics.
 
 
-Luo, M., Hancock, J.T., & Markowitz, D. Perceptions and detection accuracy of news on social media: Effects of truth-bias and endorsement cues. [OSF](https://osf.io/98mz3/?view_only=ce5be533cd9149ed88692b9fbef1c4c4)
+Luo, M., Hancock, J.T., & Markowitz, D. Perceptions and detection accuracy of news on social media: Effects of truth-bias and endorsement cues. [[OSF]](https://osf.io/98mz3/?view_only=ce5be533cd9149ed88692b9fbef1c4c4)
 
 
 Social media can extend the reach of health campaign messages via retransmission. What factors may drive message retransmission on Facebook? We examine the effects of opinion climate, message efficacy, and publicness feature of social media on retransmission.
 
 
-**Luo, M.,** Wang, N., & Bigman, C.A. Effects of opinion climate, efficacy messages, and publicness of social media on intentions to retransmit anti-binge drinking messages on Facebook. *Cyberpsychology, behavior, and social networking*
-[OSF]
+Luo, M., Wang, N., & Bigman, C.A. Effects of opinion climate, efficacy messages, and publicness of social media on intentions to retransmit anti-binge drinking messages on Facebook. *Cyberpsychology, behavior, and social networking*
 
 
 ## How Does Social Media Use Associate With Psychological Well-being?
