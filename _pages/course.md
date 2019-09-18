@@ -1,8 +1,8 @@
 ---
-title: "Courses & Workshop"
+title: "Courses & Training"
 permalink: /course/
 ---
-Courses completed
+Below are courses taken at Stanford University
 
 Statistics
 - STATS 116: Theory of Probability
