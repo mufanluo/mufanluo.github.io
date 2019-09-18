@@ -1,10 +1,12 @@
 ---
-permalink: /
 title: "Home"
+permalink: /
+excerpt: "Mufan Luo is a third-year PhD "
 layout: single
 author_profile: true
 header:
   image:
+modified: 2019-09-17
 ---
 Welcome to my site! I am a PhD candidate from the Department of Communication at Stanford University. I am working with Prof. Jeff Hancock in the [Social Media Lab](sml.stanford.edu). I completed my Masters degree at University of Illinois at Urbana-Champaign and my undergraduate degree at Renmin University of China.
 
