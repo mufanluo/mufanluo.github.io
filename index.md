@@ -16,7 +16,7 @@ See Research for how I address these questions:
 
 [What psychological processes and outcomes does language reflect and predict?](/research/<a name="What psychological processes and outcomes does language reflect and predict?"></a>)
 
-[How do people perceive and react to information on social media?](/research/<a name="How do people perceive and react to information on social media?"></a>)
+[How do people perceive and react to information on social media?](/research/<a id="How do people perceive and react to information on social media?"></a>)
 
 [How is social media use associated with psychological well-being?](/research/)
 
