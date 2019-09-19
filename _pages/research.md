@@ -17,7 +17,7 @@ Luo, M., Hsu, T., Park, J., Hancock, J.T. Amplification of shared-attention at-s
 
 Fake news has become subject to serious scrutiny since the 2016 U.S. presidential campaign. We combine dictionary and supervised machine learning methods to understand the linguistic differences between fake and real news articles and to build a statistical model that can classify news as fake or real.
 
-Luo, M., Chang, S., & Hancock, J.T. (November, 2017). *An exploratory linguistic analysis of fake news using machine learning*. Paper presented at the National Communication Association Annual Conference, Dallas, TX. [codes]
+Luo, M., Chang, S., & Hancock, J.T. (November, 2017). *An exploratory linguistic analysis of fake news using machine learning*. Paper presented at the National Communication Association Annual Conference, Dallas, TX. [[codes]](https://github.com/mufanluo/fake-news_detection.git)
 
 
 ## How do people perceive and react to information on social media?
