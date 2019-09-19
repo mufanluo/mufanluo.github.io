@@ -12,11 +12,11 @@ header:
 
 People share media experience with others in everyday life. Live streaming technologies facilitate the shared experience by allowing people to view and communicate synchronously. Do people use different language when watching a live stream video with others in real time relative to watching an archived video afterwards? Can language characteristics shed lights on psychological mechanisms behind shared-attention? We collect and analyze comment data on YouTube live stream videos to address these questions.
 
-Luo, M., Hsu, T., Park, J., Hancock, J.T. Amplification of shared-attention at-scale on YouTube. Manuscript in preparation.
+Luo, M., Hsu, T., Park, J., Hancock, J.T. Amplification of shared-attention at-scale on YouTube. Manuscript in preparation. [code]
 
 Fake news has become subject to serious scrutiny since the 2016 U.S. presidential campaign. We combine dictionary and supervised machine learning methods to understand the linguistic differences between fake and real news articles and to build a statistical model that can classify news as fake or real.
 
-Luo, M., Chang, S., & Hancock, J.T. (November, 2017). An exploratory linguistic analysis of fake news using machine learning. Paper presented at the National Communication Association Annual Conference, Dallas, TX. [code]
+Luo, M., Chang, S., & Hancock, J.T. (November, 2017). *An exploratory linguistic analysis of fake news using machine learning*. Paper presented at the National Communication Association Annual Conference, Dallas, TX. [code]
 
 
 ## How do people perceive and react to online information?
