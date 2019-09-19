@@ -12,11 +12,11 @@ I am a PhD candidate from the Department of Communication at Stanford University
 
 My research examines interpersonal and psychological dynamics via communication technologies (social media, virtual reality, live video streaming, etc.) using lab experiments, and investigates the psychological processes and outcomes language can reflect and impact using computational methods with large-scale datasets.
 
-See Research for how I address these questions
+See Research for how I address these questions:
 
-[What psychological processes and outcomes does language reflect and predict?](/research/)
+[What psychological processes and outcomes does language reflect and predict?](/research/<a name="What psychological processes and outcomes does language reflect and predict?"></a>)
 
-[How do people perceive and react to information on social media?](/research/)
+[How do people perceive and react to information on social media?](/research/<a name="How do people perceive and react to information on social media?"></a>)
 
 [How is social media use associated with psychological well-being?](/research/)
 
