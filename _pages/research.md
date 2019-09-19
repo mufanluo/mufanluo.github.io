@@ -43,7 +43,7 @@ Hancock, J.T., Liu, X., Luo, M., Mieczkowski, H., & French, M. Social media use 
 
 ## How does technology alter self-presentation and self-identity?
 
-Self-presentation and social interaction via mediated communication not only affect how others perceive us but also how we see ourselves. We examine humblebrag - a unique and pervasive self-presentation strategy on social media, including its motives and impacts on impression formation, the moderating role of avatar embodiment in VR in the stereotype threat effect in virtual learning environment, and the effects of social evaluation on identity shift via computer-mediated communication.
+Self-presentation and social interaction via mediated communication not only affect how others perceive us but also how we see ourselves. We review research on humblebrag - a unique and pervasive self-presentation strategy on social media, the impacts of avatar embodiment in the stereotype threat effect in virtual learning environment, and the effects of social evaluation on identity shift via computer-mediated communication.
 
 Luo, M., & Hancock, J.T. (in press). Complimenting the self online: The humblebrag and self-presentation in social media. In *Complimenting behavior across social media: New contexts and emerging trends*.
 
