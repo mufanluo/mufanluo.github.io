@@ -17,4 +17,4 @@ I am a PhD candidate from the Department of Communication at Stanford University
 My research examines interpersonal and psychological dynamics via communication technologies (social media, virtual reality, live video streaming, etc.) using lab experiments, and investigates the psychological processes and outcomes language can reflect and impact using computational methods with large-scale datasets.
 
 
-(/assets/images/IMG_8871.JPG)
+![book](/assets/images/IMG_8871.JPG)
