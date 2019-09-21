@@ -4,6 +4,7 @@
 excerpt: "Mufan Luo is a third-year PhD "
 layout: single
 author_profile: true
+
 #sitemap: true
 ---
 
@@ -15,4 +16,4 @@ I am a PhD candidate from the Department of Communication at Stanford University
 
 My research examines interpersonal and psychological dynamics via communication technologies (social media, virtual reality, live video streaming, etc.) using lab experiments, and investigates the psychological processes and outcomes language can reflect and impact using computational methods with large-scale datasets.
 
-Outside of research, I am passionate about traveling, hiking, and cooking. 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/IMG_8871.JPG" alt="">
