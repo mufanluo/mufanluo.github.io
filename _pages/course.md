@@ -11,7 +11,7 @@ permalink: /course/
 - STATS 209: Statistical Methods for Group Comparisons and Causal Inference
 - STATS 217: Stochastic Processing
 - STATS 222: Longitudinal Data Analysis
-- MS&E 327： Topics in Causal Inference
+- MS&E 327: Topics in Causal Inference
 - EDUC 326: Advanced Regression Analysis
 
 ### Programming

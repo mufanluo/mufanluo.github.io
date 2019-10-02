@@ -12,7 +12,7 @@ header:
 
 People share media experience with others in everyday life. Live streaming technologies facilitate the shared experience by allowing people to view and communicate with others synchronously. Do people use different language styles to comment when watching a live stream video compared to a recorded video? Can language characteristics shed lights on psychological mechanisms behind shared-attention? We collect and analyze 670,000 comments on over 300 YouTube videos to address these questions.
 
-Luo, M., Hsu, T., Park, J., Hancock, J. T. Watching in live intensifies emotion: A perspective of shared attention using large-scale YouTube comments. *Proceedings of the 2020 ACM Conference on Computer Supported Cooperative Work and Social Computing* [code upon request]
+Luo, M., Hsu, T., Park, J., Hancock, J. T. (under review) Watching in live intensifies emotion: A perspective of shared attention using large-scale YouTube comments. *Proceedings of the 2020 ACM Conference on Computer Supported Cooperative Work and Social Computing* [code upon request]
 
 
 Fake news has become subject to serious scrutiny since the 2016 U.S. presidential campaign. We combine dictionary and supervised machine learning methods to understand the linguistic differences between fake and real news articles and to build a statistical model that can classify news as fake or real.
