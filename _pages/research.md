@@ -12,7 +12,7 @@ header:
 
 People share media experience with others in everyday life. Live streaming technologies facilitate the shared experience by allowing people to view and communicate with others synchronously. Do people use different language styles to comment when watching a live stream video compared to a recorded video? Can language characteristics shed lights on psychological mechanisms behind shared-attention? We collect and analyze 670,000 comments on over 300 YouTube videos to address these questions.
 
-Luo, M., Hsu, T., Park, J., Hancock, J. T. Amplification of shared-attention at-scale on YouTube. *Manuscript in preparation*. [code upon request]
+Luo, M., Hsu, T., Park, J., Hancock, J. T. Watching in live intensifies emotion: A perspective of shared attention using large-scale YouTube comments. *Proceedings of the 2020 ACM Conference on Computer Supported Cooperative Work and Social Computing* [code upon request]
 
 
 Fake news has become subject to serious scrutiny since the 2016 U.S. presidential campaign. We combine dictionary and supervised machine learning methods to understand the linguistic differences between fake and real news articles and to build a statistical model that can classify news as fake or real.
@@ -29,7 +29,7 @@ Luo, M., Hancock, J. T., & Markowitz, D. (revise & resubmit) Perceptions and det
 
 Social media can extend the reach of health campaign messages via retransmission. What factors may drive message retransmission on Facebook? We examine the effects of opinion climate, message efficacy, and publicness feature of social media on retransmission.
 
-Luo, M., Wang, N., & Bigman, C.A. (revise & resubmit) Effects of opinion climate, efficacy messages, and publicness of social media on intentions to retransmit anti-binge drinking messages on Facebook. *Cyberpsychology, Behavior, and Social Networking*
+Luo, M., Wang, N., & Bigman, C.A. (in press) Effects of opinion climate, efficacy messages, and publicness of social media on intentions to retransmit anti-binge drinking messages on Facebook. *Cyberpsychology, Behavior, and Social Networking*
 
 
 ## How is social media use associated with psychological well-being?
@@ -49,4 +49,4 @@ Luo, M., & Hancock, J. T. (in press). Complimenting the self online: The humbleb
 
 Chang, F., Luo, M., Waltor, G., Aguilar, L., & Bailenson, J. (in press). Stereotype threat in virtual learning environments: Effects of avatar gender and sexist behavior on women’s math learning outcomes. *Cyberpsychology, Behavior and Social Networking*.
 
-French, M., Luo, M., & Hancock, J. T. Addressing the audience: Effects of evaluation on identity shift in computer-mediated environments. *Manuscript in preparation*.
+French, M., Luo, M., & Hancock, J. T (under review). Addressing the audience: Effects of evaluation on identity shift in computer-mediated environments. *Media Psychology*.
