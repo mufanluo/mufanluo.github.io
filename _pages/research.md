@@ -12,7 +12,7 @@ header:
 
 People share media experience with others in everyday life. Live streaming technologies facilitate the shared experience by allowing people to view and communicate with others synchronously. Do people use different language styles to comment when watching a live stream video compared to a recorded video? Can language characteristics shed lights on psychological mechanisms behind shared-attention? We collect and analyze 670,000 comments on over 300 YouTube videos to address these questions.
 
-Luo, M., Hsu, T., Park, J., Hancock, J. T. (under review) Watching in live intensifies emotion: A perspective of shared attention using large-scale YouTube comments. *Proceedings of the 2020 ACM Conference on Computer Supported Cooperative Work and Social Computing* [code upon request]
+Luo, M., Hsu, T., Park, J., Hancock, J. T. (under review) Watching a live video intensifies emotion: A perspective of shared attention using large-scale YouTube comments. *Proceedings of the 2020 ACM Conference on Computer Supported Cooperative Work and Social Computing* [code upon request]
 
 
 Fake news has become subject to serious scrutiny since the 2016 U.S. presidential campaign. We combine dictionary and supervised machine learning methods to understand the linguistic differences between fake and real news articles and to build a statistical model that can classify news as fake or real.
@@ -38,7 +38,7 @@ The debate over how social media use affects psychological well-being is widespr
 
 Luo, M., & Hancock, J. T.(2019). Self-disclosure and social media: Motivations, mechanisms and psychological well-being. *Current Opinion in Psychology*. [[DOI]](https://doi.org/10.1016/j.copsyc.2019.08.019)
 
-Hancock, J. T., Liu, X., Luo, M., Mieczkowski, H., & French, M. Social media use and psychological well-being: A Meta-analysis. *Manuscript in preparation* [code and data visualization upon request]
+Hancock, J. T., Liu, X., Luo, M., Mieczkowski, H., & French, M. Social media use and psychological well-being: A Meta-analysis. (under review). *Psychological Bulletin* [code and data visualization upon request]
 
 
 ## How does technology alter self-presentation and self-identity?
@@ -47,6 +47,7 @@ Self-presentation and social interaction via mediated communication not only aff
 
 Luo, M., & Hancock, J. T. (in press). Complimenting the self online: The humblebrag and self-presentation in social media. In *Complimenting behavior across social media: New contexts and emerging trends*.
 
-Chang, F., Luo, M., Waltor, G., Aguilar, L., & Bailenson, J. (in press). Stereotype threat in virtual learning environments: Effects of avatar gender and sexist behavior on women’s math learning outcomes. *Cyberpsychology, Behavior and Social Networking*.
+Chang, F., Luo, M., Walton, G., Aguilar, L., & Bailenson, J. (2019). Stereotype threat in virtual learning environments: Effects of avatar gender and sexist behavior on women’s math learning outcomes. *Cyberpsychology, Behavior, and Social Networking*.[[DOI]](https://doi.org/10.1089/cyber.2019.0106)
 
-French, M., Luo, M., & Hancock, J. T (under review). Addressing the audience: Effects of evaluation on identity shift in computer-mediated environments. *Media Psychology*.
+
+French, M., Luo, M., & Hancock, J. T. (under review). Addressing the audience: Effects of evaluation on identity shift in computer-mediated environments. *Media Psychology*.
